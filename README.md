@@ -8,8 +8,6 @@
 
 This project analyzes customer shopping behavior using retail transaction data to identify patterns in purchasing, customer segments, and product performance.
 
-📄 Business Problem: 
-
 ---
 
 ## 🎯 Objective
@@ -30,8 +28,6 @@ This project analyzes customer shopping behavior using retail transaction data t
 * 🛒 Purchase: Item, Category, Amount
 * 📈 Behavior: Discounts, Reviews, Frequency
 * 🚚 Shipping: Type
-
-📄 Details: 
 
 ---
 
@@ -71,10 +67,15 @@ This project analyzes customer shopping behavior using retail transaction data t
 ## 📊 Key Insights
 
 ✔ Male customers generate higher revenue
+
 ✔ Top products: Gloves, Sandals, Boots
+
 ✔ Express shipping → higher spending
+
 ✔ Majority customers are loyal
+
 ✔ Discounts influence buying decisions
+
 ✔ Young adults are top contributors
 
 ---
